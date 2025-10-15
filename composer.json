@@ -1,5 +1,5 @@
 {
-    "name": "abs/abs",
+    "name": "nosir/abs",
     "autoload": {
         "psr-4": {
             "Abs\\Abs\\": "src/"
