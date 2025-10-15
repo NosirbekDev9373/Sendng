@@ -1,0 +1,17 @@
+{
+    "name": "abs/abs",
+    "autoload": {
+        "psr-4": {
+            "Abs\\Abs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NosirbekDev9373"
+        }
+    ],
+    "scripts": {
+      "serve": "php -S localhost:8009 -t ./src"
+    },
+    "require": {}
+}
